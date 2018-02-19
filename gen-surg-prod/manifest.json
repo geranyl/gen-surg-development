@@ -1,0 +1,9 @@
+{
+	"name":"General Surgery Handbook",
+	"short_name":"GenSurg",
+	"start_url":".",
+	"display":"standalone",
+	"background_color":"#ffffff",
+	"description":"General Surgery Handbook - McMaster WRC",
+	"orientation":"portrait-primary"
+}

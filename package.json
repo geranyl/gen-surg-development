@@ -1,0 +1,37 @@
+{
+  "name": "general-surgery-handbook",
+  "version": "1.0.0",
+  "description": "general surgery handbook for clerkship - wip",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/geranyl/gen-surg-source.git"
+  },
+  "keywords": [
+    "general",
+    "surgery",
+    "surgery",
+    "clerkship",
+    "markdown"
+  ],
+  "author": "Salpy Kelian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geranyl/gen-surg-source/issues"
+  },
+  "dependencies": {
+    "jquery": "3.3.1",
+    "lunr": "^2.1.5",
+    "slideout": "1.0.1",
+    "stackable": "git://github.com/johnpolacek/stacktable.js.git#v1.0.2"
+  },
+  "devDependencies": {
+    "fs-extra": "^5.0.0",
+    "node-cmd": "^3.0.0",
+    "node-minify": "^2.4.1",
+    "markdown-to-json": "git://github.com/geranyl/markdown-to-json"
+  }
+}
