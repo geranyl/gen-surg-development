@@ -57,6 +57,8 @@ There are three groups of agents used to modify thrombus formation:
 * route of delivery: IV/SC
 * reversal agent: protamine sulfate (1 mg protamine : 100 units heparin)
 * ~ 0.5% risk of HIT (heparin induced thrombocytopenia): platelets decrease to &lt; 50% of pretreatment value within 5-10 days after starting heparin
+	* 4Ts score for Heparin-Induced Thrombocytopenia: **t**hrombocytopenia, **t**iming of platelet count fall, **t**hrombosis, other causes for **t**hrombocytopenia
+	* if previously exposed to heparin, platelet fall can occur with 24 hours
 
 #### Warfarin ####
 * vitamin K antagonist

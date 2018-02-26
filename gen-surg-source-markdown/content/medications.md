@@ -70,7 +70,25 @@ CSS: main.css
 Note: acetaminophen max adult dose 4g/day
 
 ### Other ###
-*  "Stress dose" steroids for individuals on chronic steroids: 100 mg hydrocortisone given preoperatively, continued q8h, then tapered
+*  "Stress dose" steroids for individuals on chronic steroids: 
+	*  if on >20 mg prednisone for >3 weeks in the past year, stress dosing required for adrenal insufficiency
+
+	| Surgery Type|Dosing	| 
+|:-------------------------|:----------------------------------|
+	|Minor day surgery| hydrocortisone 25 mg x1|
+	|Moderate surgery| hydrocortisone 25 mg q12h x1 day, then 25 mg x 1 day|
+	|Major surgery| hydrocortisone 50 mg IV q8h x1 day, then 50 mg IV q12hrs x1 day, then 25 mg IV q12hrs x1day
+
+### Sample Bowel Regimen ###
+The goal is to have one soft BM per day. If no bowel movements (BM) in 3 days, look for impaction.
+
+|Day|Non-renal patient| Renal patient <br/>(e.g. Cr>200 mM)|
+| :----	| :---------------	| :-----------------------------	|
+| 1	| docusate 200 mg PO BID	| docusate 200 mg PO  daily	| 
+| 3	| if no BM, milk of magnesia 30 mL BID + sennoside syrup 8.5 mg (5 mL) BID prn, discontinue docusate	| lactulose 15-30 mL qid, continue docusate	| 
+| 4	| if no BM, bisacodyl 10 mg PR, continue q2d prn; if no BM after bisacodyl, give Fleet enema q2d prn	| bisacodyl 10 mg PR, continue q2d PRN	| 
+
+
 
 ## Discharge Scripts  ##
 **Pain**: Opioid pain medications are typically overprescribed. Do not prescribe beyond follow up date (usually within 2-6 weeks).
