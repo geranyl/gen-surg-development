@@ -50,6 +50,8 @@ MIs are the most common complication for POD #0, but more MIs occur on POD #1 an
 
 Atelectasis was considered the cause of POD #1 fever but recent data shows that the relationship between atelectasis and fever does not hold true.
 
+Tachycardia (possibly A-fib) on POD #3-4 after a bowel anastomosis is a sign of a leak (impending sepsis).  
+
 Keep a high index of suspicion for the outpatient who had surgery 3-4 wks prior for VTE and UTI. VTEs are not as common with the revised 5Ws due to modern use of anticoagulants postoperatively.
 
 <small>*J. of Surg Edu 2015 Vol 72(3):430-437;  J. of Surg Edu 2015 Vol 72(1):164-169</small>
