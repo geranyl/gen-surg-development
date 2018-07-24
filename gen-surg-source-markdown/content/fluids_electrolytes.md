@@ -299,14 +299,16 @@ Treatment:
 
 * mnemonic: CB DIAL K
 	* calcium, bicarbonate, dialysis, insulin/dextrose, salbutamol, Lasix (furosemide), Kayexalate (sodium polystyrene sulfonate - cation exchange resin)
+* Calcium = protect the heart. Bicarbonate, insulin+dextrose, salbutamol = shift K^+^. Lasix, Kayexalate, dialysis = get rid of K^+^.
 * < 6 mEq/L: furosemide, kayexalate, restrict K^+^ intake, remove K^+^ sparing diuretics treat volume/acid-base disorders
 * 6.5 - 7.5 mEq/L: 
 	* continuous ECG monitoring
-	* 10U insulin + 25 g glucose over 5 min *or* 45 mEq bicarbonate over 5 min; either shift K^+^ from ECF to ICF by 1 mEq/L with effects lasting a few hours
+	* 10U insulin + 25 g glucose IV over 5 min *or* 45 mEq (1 ampule = 50 mEq) bicarbonate IV over 5 min; either shifts K^+^ from ECF to ICF by 1 mEq/L with effects lasting a few hours
 	* Kayexalate - removes K^+^; 1 g binds 1 mEq K^+^
 		* oral: 25 g in 50 mL of 20% sorbitol q4-6h
 		* rectal: 50 g in 100-200 mL of 35% sorbitol q4h as a retention enema
 * \>7.5 mEq/L (with signs of cardiac toxicity)
-	* IV 10-30 mL 10% Ca^2+^ gluconate over 5 min to reduce cardiac excitability (cardio protective)
+	* Ca^2+^ gluconate 10% 10-30 mL IV over 5 min to reduce cardiac excitability (cardio protective)
+		* *or* Ca^2+^Cl^-^ 5-10 mL IV followed by NS flush
 	* dialysis to remove K^+^
 

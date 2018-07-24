@@ -30,7 +30,7 @@ MMD footer: <script src="scripts/source.js"></script><script>
  <header class="fixed-header"><button class="hamburger hamburger--squeeze js-slideout-toggle" type="button"><span class="hamburger-box"><span class="hamburger-inner"></span></span></button></header>
 <main id="main">
 <h1>General Surgery - Clerkship Handbook</h1>
-<small>This is a work in progress for McMaster's General Surgery Clerkship - WRC Campus. Last updated Feb 27, 2018 - by Salpy Kelian</small><br/>
+<small>This is a work in progress for McMaster's General Surgery Clerkship - WRC Campus. Last updated July 23, 2018 - by Salpy Kelian</small><br/>
 
 {{notes_overview.md}}
 {{notes_detail_consult.md}}
