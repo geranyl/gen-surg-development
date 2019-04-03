@@ -85,13 +85,15 @@ Concepts:
 * Free water is distributed evenly between intracellular and extracellular fluid compartments.  
 
 
-|  Solution  |  Glucose<br/>(gm/L)  |  Osm  |  Na^+^<br/>(mEq/L) |  Cl^-^ <br/>(mEq/L)  | Uses  |  
-|  ------	| :------:	| :------:	| :------:	| :------:	| ------	|  
-| D5W<br/>(5% dextrose in water) | 50	| 252	| 0	| 0	| Delivery of free fluid. TKVO for meds|  
-|  NS<br/>(0.9% NaCl)	| 0	| 308	| 154	| 154	| Replace ECF. Perioperative fluid.	|  
-| 1/2NS<br/>(0.45%NaCl)	| 0	| 154	| 77	| 77	| Delivery of free fluid and to replace ECF. Used in hypertonic ECFV depleted states.	|  
-| Ringer's Lactate<br/>(In addition to NaCl, RL has 28 mEq lactate, 4mEq K^+^, and 3 mEq Ca^2+^)	| 0	| 272	| 130	| 109	|  Replace ECF. Perioperative fluid. Note: lactate converts to bicarbonate.	|  
-| 3% NaCl	| 0	| 1026	| 513	| 513	| Treatment of severe hyponatremia	| 
+|  Solution  |  Glucose<br/>(gm/L)  |  Osm  |  Na^+^<br/>(mEq/L) |  Cl^-^ <br/>(mEq/L)  | K^+^<br/>(mEq/l) | Uses  | 
+| :----------:	| :--------------------:	| :-----:	| :------------------:	| :--------------------:	| :----------------:	| :-----:	| 
+| 	|  
+| D5W<br/>(5% dextrose in water) | 50	| 252	| 0	| 0	| 0	| Delivery of free fluid. TKVO for meds|  
+|  NS<br/>(0.9% NaCl)	| 0	| 308	| 154	| 154	| | Replace ECF. Perioperative fluid.	|  
+| 1/2NS<br/>(0.45%NaCl)	| 0	| 154	| 77	| 77	| 0	| Delivery of free fluid and to replace ECF. Used in hypertonic ECFV depleted states.	|  
+| Ringer's Lactate<br/>(In addition to NaCl, RL has 28 mEq lactate, and 3 mEq Ca^2+^)	| 0	| 272	| 130	| 109	| 4	|  Replace ECF. Perioperative fluid. Note: lactate converts to bicarbonate.	|  
+| 3% NaCl	| 0	| 1026	| 513	| 513	| 0	| Treatment of severe hyponatremia	| 
+| PlasmaLyte	| 0	| 294	| 140	| 98	| 5	| Isotonic solution that closely mimics human plasma; additionally contains 27 mmol/L acetate, 1.5 mmol/L Mg^2+^, 23 mmol/L gluconate
 
 ### Tips ###
 
