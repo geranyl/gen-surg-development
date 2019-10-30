@@ -23,7 +23,7 @@
     "url": "https://github.com/geranyl/gen-surg-source/issues"
   },
   "dependencies": {
-    "jquery": "3.3.1",
+    "jquery": "3.4.1",
     "lunr": "^2.1.5",
     "slideout": "1.0.1",
     "stackable": "git://github.com/johnpolacek/stacktable.js.git#v1.0.2"
